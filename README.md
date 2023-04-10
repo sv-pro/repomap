@@ -5,4 +5,4 @@ This repo helps navigate other (important) repos
 
 * Vercel Project: https://vercel.com/sv-pro/nextra-site
 * GitHub repo: https://github.com/sv-pro/nextra-site
-* Visit: [nextra-site-gh.vercel.app](https://nextra-site-gh.vercel.app/)
+* Visit: [nextra-site-sv.vercel.app](https://nextra-site-sv.vercel.app/)
