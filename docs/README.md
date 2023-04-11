@@ -1,5 +1,5 @@
 # Readme
 
 ## How to view the docs?
-- GitHub 
-- GitHub Pages: https://sv-pro.github.io/repomap/
+- GitHub UI: [https://github.com/sv-pro/repomap/blob/main/docs](https://github.com/sv-pro/repomap/tree/main/docs)
+- GitHub Pages: [https://sv-pro.github.io/repomap/](https://sv-pro.github.io/repomap/)
