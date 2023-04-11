@@ -2,5 +2,4 @@
 
 ## How to view the docs?
 - GitHub 
-- GitHub Pages
-  - [] clone into an NPM running environment
+- GitHub Pages: https://sv-pro.github.io/repomap/
