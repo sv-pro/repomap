@@ -1,0 +1,16 @@
+- [ ] Serverless VM management
+  - [ ] register
+  - [ ] start/shutdown
+  - [ ] monitoring + alerts
+    - [ ] load
+    - [ ] cost
+    - [ ] anomalies    
+  - [ ] UI
+    - [ ] static web
+    - [ ] chats
+      - [ ] telegram
+      - [ ] slack     
+- [ ] Learn Tailwind CSS
+- [ ] Learn  Preact
+- [ ] Create Astro + Preact + tailwind + paper blog
+     
