@@ -1,6 +1,10 @@
 # repomap
 This repo helps navigate other (important) repos
 
+## q - my startup env
+Astro Blog:
+- GitHub repo: https://github.com/sv-pro/q-astro-blog
+
 ## Sites
 ### Vercel+GitHub Nextra Site 
 
